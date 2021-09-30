@@ -1,1 +1,3 @@
-# crossplatform-programing-laba1
+# crossplatform-programing
+
+Лабороторні роботи студента групи ІПЗ-41 Келлера Єгора з предмету кросплатформне програмування.
