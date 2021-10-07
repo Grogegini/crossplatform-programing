@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.AssemblyInfo.cs
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\кроссплатформа лаба 2.exe
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\кроссплатформа лаба 2.deps.json
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\кроссплатформа лаба 2.runtimeconfig.json
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\кроссплатформа лаба 2.runtimeconfig.dev.json
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\кроссплатформа лаба 2.dll
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\ref\кроссплатформа лаба 2.dll
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\bin\Debug\net5.0\кроссплатформа лаба 2.pdb
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.dll
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\ref\кроссплатформа лаба 2.dll
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.pdb
+C:\Users\user\source\repos\кроссплатформа лаба 2\кроссплатформа лаба 2\obj\Debug\net5.0\кроссплатформа лаба 2.genruntimeconfig.cache
